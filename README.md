@@ -1,7 +1,7 @@
 # Dynamic To-Do List
 
 ## Sample output Link
-Demo od the project => [To-Do list](https://sparkly-entremet-73a14e.netlify.app).
+Demo of the project => [To-Do list](https://sparkly-entremet-73a14e.netlify.app).
 
 This is a **simple and dynamic To-Do List** web application that allows users to create, manage, and track their tasks. The website offers a clean user interface and includes features such as task addition, deletion, and local storage for saving tasks.
 
